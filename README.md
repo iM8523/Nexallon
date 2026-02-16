@@ -1,4 +1,7 @@
 # Nexallon (NXN) - Autonomous AI-Driven Ecosystem
+<p align="center">
+  <img src="cover.png" alt="Nexallon Cover" width="100%">
+</p>
 
 ## Abstract
 Nexallon is a decentralized platform built on the Solana Blockchain designed to bridge the gap between advanced AI automation and real-world business applications. By leveraging the speed of Solana and the intelligence of proprietary AI bots, Nexallon provides a suite of automated services that streamline workflows, enhance productivity, and secure digital assets.
