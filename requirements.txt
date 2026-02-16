@@ -1,3 +1,9 @@
 python-telegram-bot
 solders
 solana
+python-telegram-bot
+solana
+solders
+telegram
+openai
+google-generativeai
